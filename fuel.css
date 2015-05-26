@@ -1,0 +1,289 @@
+body {
+	background-color: black;
+}
+
+.hidden {
+	display: none;
+}
+
+a {
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2em;
+	margin-right: 1.5em;
+	margin-left: 1em;
+	text-decoration: none;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.5em;
+	float: left;
+	clear: both;
+	padding: 0.5em;
+	margin-top: 2em;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3em;
+	text-decoration: underline;
+	padding-bottom: 0.3em;
+}
+
+.head {
+	float: right;
+	width: 75%;
+	height: 7.5em;
+	margin-top: 5em;
+	border-top: 2px solid rgb(128,193,185);
+	border-left: 2px solid rgb(128,193,185);
+	padding: 1em;
+}
+
+.logo {
+	float: left;
+	padding-left: 1em;
+	padding: 2em;
+	width: 14.85em;
+	border-bottom: 2px solid rgb(128,193,185);
+}
+
+.home, .culture {
+	color: rgb(119, 67 , 62);
+}
+
+.guide, .shopping {
+	color: rgb(219, 204, 185);
+}
+
+.hotspots, .food {
+	color: rgb(0, 105, 116);
+}
+
+.events, .clubs {
+	color: rgb(171, 98, 65);
+}
+
+.drinks {
+	color: rgb(128,193,185);
+}
+
+.homepage {
+	padding: 3em;
+	padding-left: 5em;
+	clear: both;
+	color: white;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.imgwheel {
+	margin-right: none;
+	border: 2px solid rgb(219, 204, 185);
+	margin-top: 1em;
+}
+
+.imgcoffe {
+	margin-left: none;
+	float: right;
+	border: 2px solid rgb(219, 204, 185);
+	margin-top: 1em;
+}
+
+.hotspotspage  {
+	clear: both;
+	color: white;
+	padding: 3em;
+	width: 85%;
+	margin: 0 auto;
+}
+
+.guidepage {
+	padding: 3em;
+	padding-left: 5em;
+	clear: both;
+	color: white;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.map {
+	border: 2px solid rgb(219, 204, 185);
+}
+
+.eventpage {
+	padding: 5em;
+	padding-left: 5em;
+	clear: both;
+	color: white;
+	width: 85%;
+	margin: 0 auto;
+}
+
+.antwerpenproeft, .bocadero {
+	padding: 0.5em;
+	width: 98.4%;
+}
+
+.antwerpenproeft {
+	border-left: 2px solid rgb(171, 98, 65);
+	border-bottom: 2px solid rgb(171, 98, 65);
+	float: left;
+}
+
+.proeftimg {
+	float: right;
+	border: 2px solid rgb(219, 204, 185);
+}
+
+.bocadero {
+	border-right: 2px solid rgb(171, 98, 65);
+	float: right;
+	text-align: right;
+}
+
+.bocaderoimg {
+	float: left;
+	border: 2px solid rgb(219, 204, 185);
+}
+
+.div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9, .div10, .div11, .div12, .div13, .div14, .div15, .div16 {
+	padding: 0.5em;
+	width: 98.4%
+}
+
+.img1, .img3, .img5, .img6, .img8, .img10, .img11, .img13, .img15 {
+	float: right;
+	height: 150px;
+}
+
+.img2, .img4, .img7, .img9, .img12, .img14, .img16 {
+	float: left;
+	height: 150px;
+}
+
+.div1 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(0, 105, 116);
+	border-bottom: 2px solid rgb(0, 105, 116);
+}
+
+.div2 {
+	float: right;
+	text-align: right;
+	clear: right;
+	border-right: 2px solid rgb(0, 105, 116);
+	border-bottom: 2px solid rgb(0, 105, 116);
+}
+
+.div3 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(0, 105, 116);
+	border-bottom: 2px solid rgb(0, 105, 116);
+}
+
+.div4 {
+	float: right;
+	text-align: right;
+	clear: both;
+	border-right: 2px solid rgb(0, 105, 116);
+	border-bottom: 2px solid rgb(0, 105, 116);
+}
+
+.div5 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(0, 105, 116);
+	border-bottom: none;
+
+}
+
+.div6 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(128,193,185);
+	border-bottom: 2px solid rgb(128,193,185);
+}
+
+.div7 {
+	float: right;
+	text-align: right;
+	clear: both;
+	border-right: 2px solid rgb(128,193,185);
+	border-bottom: none;
+}
+
+.div8 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(171, 98, 65);
+	border-bottom: 2px solid rgb(171, 98, 65);
+}
+
+.div9 {
+	float: right;
+	text-align: right;
+	clear: both;
+	border-right: 2px solid rgb(171, 98, 65);
+	border-bottom: 2px solid rgb(171, 98, 65);
+}
+
+.div10 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(171, 98, 65);
+	border-bottom: none;
+}
+
+.div11 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(119, 67 , 62);
+	border-bottom: 2px solid rgb(119, 67 , 62);
+}
+
+.div12 {
+	float: right;
+	text-align: right;
+	clear: both;
+	border-right: 2px solid rgb(119, 67 , 62);
+	border-bottom: none;
+}
+
+.div13 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(219, 204, 185);
+	border-bottom: 2px solid rgb(219, 204, 185);
+}
+
+.div14 {
+	float: right;
+	text-align: right;
+	clear: both;
+	border-right: 2px solid rgb(219, 204, 185);
+	border-bottom: 2px solid rgb(219, 204, 185);
+}
+
+.div15 {
+	float: left;
+	clear: both;
+	border-left: 2px solid rgb(219, 204, 185);
+	border-bottom: 2px solid rgb(219, 204, 185);
+}
+
+.div16 {
+	float: right;
+	text-align: right;
+	clear: both;
+	border-right: 2px solid rgb(219, 204, 185);
+	border-bottom: none;
+}
